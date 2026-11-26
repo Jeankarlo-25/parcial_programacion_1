@@ -4,8 +4,8 @@ Parcial del tercer corte de **Programación 1**, Universidad Libre, docente Andr
 
 | Dato | Valor |
 |---|---|
-| **Estudiante** | Felipe Salazar |
-| **Código** | 1145224703 |
+| **Estudiante** | George Jeancarlo Caicedo Lopez |
+| **Código** | 1011201984 |
 | **Variante** | **4 — Hotel HotelLibre** |
 | **Patrón de diseño** | **Builder** (`modelo.ReservaBuilder`) |
 | **Motor de base de datos** | **SQLite** (JDBC, driver `org.xerial:sqlite-jdbc`) |
