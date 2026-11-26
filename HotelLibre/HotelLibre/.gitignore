@@ -1,0 +1,12 @@
+# Compilados
+target/
+*.class
+
+# Base de datos local (se crea sola al ejecutar con src/main/resources/schema.sql)
+hotel.db
+
+# IDEs
+.idea/
+*.iml
+nbproject/private/
+.vscode/
